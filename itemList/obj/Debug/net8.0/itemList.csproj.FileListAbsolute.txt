@@ -1,0 +1,11 @@
+D:\1.Programming\BOSSAPP\itemList\bin\Debug\net8.0\itemList.deps.json
+D:\1.Programming\BOSSAPP\itemList\bin\Debug\net8.0\itemList.dll
+D:\1.Programming\BOSSAPP\itemList\bin\Debug\net8.0\itemList.pdb
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\itemList.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\itemList.AssemblyInfoInputs.cache
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\itemList.AssemblyInfo.cs
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\itemList.csproj.CoreCompileInputs.cache
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\itemList.dll
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\refint\itemList.dll
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\itemList.pdb
+D:\1.Programming\BOSSAPP\itemList\obj\Debug\net8.0\ref\itemList.dll
