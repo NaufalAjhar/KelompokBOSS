@@ -1,0 +1,14 @@
+D:\KPL\UlasanProduk\UlasanProduk\bin\Debug\net8.0\UlasanProduk.exe
+D:\KPL\UlasanProduk\UlasanProduk\bin\Debug\net8.0\UlasanProduk.deps.json
+D:\KPL\UlasanProduk\UlasanProduk\bin\Debug\net8.0\UlasanProduk.runtimeconfig.json
+D:\KPL\UlasanProduk\UlasanProduk\bin\Debug\net8.0\UlasanProduk.dll
+D:\KPL\UlasanProduk\UlasanProduk\bin\Debug\net8.0\UlasanProduk.pdb
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.AssemblyInfoInputs.cache
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.AssemblyInfo.cs
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.csproj.CoreCompileInputs.cache
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.dll
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\refint\UlasanProduk.dll
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.pdb
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\UlasanProduk.genruntimeconfig.cache
+D:\KPL\UlasanProduk\UlasanProduk\obj\Debug\net8.0\ref\UlasanProduk.dll
