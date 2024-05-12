@@ -1,0 +1,25 @@
+﻿[
+  {
+    "ID_Payment": "001",
+    "Nama_Pembeli": "Amar", 
+    "Metode_Pembayaran": "Virtual Account",
+    "Jumlah": 100000,
+    "Biaya_Admin": 2500
+  },
+
+  {
+    "ID_Payment": "002",
+    "Nama_Pembeli": "Rapip",
+    "Metode_Pembayaran": "Virtual Account",
+    "Jumlah": 50000,
+    "Biaya_Admin": 2500
+  },
+
+  {
+    "ID_Payment": "003",
+    "Nama_Pembeli": "Sadra",
+    "Metode_Pembayaran": "Virtual Account",
+    "Jumlah": 75000,
+    "Biaya_Admin": 2500
+  }
+]
