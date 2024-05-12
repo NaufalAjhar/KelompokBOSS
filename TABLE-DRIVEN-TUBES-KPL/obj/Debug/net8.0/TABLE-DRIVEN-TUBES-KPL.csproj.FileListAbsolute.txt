@@ -1,0 +1,14 @@
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.AssemblyInfoInputs.cache
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.AssemblyInfo.cs
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.csproj.CoreCompileInputs.cache
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\bin\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.exe
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\bin\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.deps.json
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\bin\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.runtimeconfig.json
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\bin\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\bin\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.pdb
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\refint\TABLE-DRIVEN-TUBES-KPL.dll
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.pdb
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\TABLE-DRIVEN-TUBES-KPL.genruntimeconfig.cache
+C:\Users\Haikal\OneDrive\Documents\Konstruksi Perangkat Lunak\TABLE-DRIVEN-TUBES-KPL\TABLE-DRIVEN-TUBES-KPL\obj\Debug\net8.0\ref\TABLE-DRIVEN-TUBES-KPL.dll
