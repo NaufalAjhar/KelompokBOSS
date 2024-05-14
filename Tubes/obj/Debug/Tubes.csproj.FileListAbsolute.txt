@@ -1,0 +1,15 @@
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\bin\Debug\Tubes.exe.config
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\bin\Debug\Tubes.exe
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\bin\Debug\Tubes.pdb
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.csproj.AssemblyReference.cache
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.SignUpForm.resources
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.Properties.Resources.resources
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.Sign_In_Form.resources
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.csproj.GenerateResource.cache
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.csproj.CoreCompileInputs.cache
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.exe
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.pdb
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\bin\Debug\Newtonsoft.Json.dll
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\bin\Debug\Newtonsoft.Json.xml
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.csproj.Up2Date
+D:\Telkom University\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\TUBES\Tubes\Tubes\obj\Debug\Tubes.Profile.resources
