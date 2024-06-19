@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Trigger": "welcome",
+    "Title": "Welcome",
+    "MessageTemplate": "Hello {username}"
+  },
+  {
+    "Trigger": "cartUpdate",
+    "Title": "Cart Update",
+    "MessageTemplate": "Item {itemName} added to your cart successfully!"
+  }
+]
