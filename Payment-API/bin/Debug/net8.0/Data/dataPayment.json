@@ -1,0 +1,114 @@
+[
+  {
+    "ID_Payment": 1,
+    "ID_User": 1,
+    "Nama_Pembeli": "Amar",
+    "Metode_Pembayaran": "Qris",
+    "Jumlah": 100000,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 2,
+    "ID_User": 1,
+    "Nama_Pembeli": "Amar",
+    "Metode_Pembayaran": "Qris",
+    "Jumlah": 150000,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 3,
+    "ID_User": 2,
+    "Nama_Pembeli": "Rapip",
+    "Metode_Pembayaran": "Qris",
+    "Jumlah": 25000,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 4,
+    "ID_User": 2,
+    "Nama_Pembeli": "Rapip",
+    "Metode_Pembayaran": "Qris",
+    "Jumlah": 15000,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 764,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 50,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 221,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 20,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 928,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 40,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 573,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 40,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 245,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 0,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 855,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 20,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 436,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 20,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 813,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 20,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 345,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 20,
+    "Biaya_Admin": 2500
+  },
+  {
+    "ID_Payment": 454,
+    "ID_User": 147532,
+    "Nama_Pembeli": "user1",
+    "Metode_Pembayaran": "qris",
+    "Jumlah": 50,
+    "Biaya_Admin": 2500
+  }
+]
